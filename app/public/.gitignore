@@ -1,0 +1,3 @@
+# Ignore the wp-admin folder inside app/public
+app/public/wp-admin/
+app/public/wp-includes/
